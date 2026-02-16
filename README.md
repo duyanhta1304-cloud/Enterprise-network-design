@@ -70,7 +70,7 @@ Designed and implemented a dual-site enterprise network serving 150+ endpoints a
 - Router ↔ ISP: 10.0.4.0/30
 - Main ↔ Branch WAN: 10.0.1.0/30, 10.0.2.0/30
 
-[See complete addressing scheme](documentation/ip-addressing-scheme.md)
+[See complete addressing scheme](Documentation/ip-addressing-scheme.md)
 
 ## Security Policies
 
@@ -90,7 +90,7 @@ Designed and implemented a dual-site enterprise network serving 150+ endpoints a
 - Management can access all resources
 - Other VLANs blocked from management access
 
-[See detailed ACL configurations](documentation/security-implementation.md)
+[See detailed ACL configurations](Documentation/security-implementation.md)
 
 ## Key Achievements
 
