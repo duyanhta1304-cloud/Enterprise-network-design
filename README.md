@@ -120,7 +120,7 @@ Designed and implemented a dual-site enterprise network serving 150+ endpoints a
 
 ## How to Use This Project
 
-1. **Download Packet Tracer file**: [enterprise-network.pkt](packet-tracer/enterprise-network.pkt)
+1. **Download Packet Tracer file**: [enterprise-network.pkt](PacketTracer/enterprise-network.pkt)
 2. **Open in Cisco Packet Tracer** (version 8.0+)
 3. **Review configurations** in the `configs/` folder
 
